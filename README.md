@@ -1,3 +1,3 @@
-#Go
+# Go
 
-I'm learning GO!
+I'm learning Go!
